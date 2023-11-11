@@ -1,11 +1,7 @@
 {
     "name": "azher/ows",
     "description": "Open Web Solutions",
-    "autoload": {
-        "psr-4": {
-            "Azher\\Ows\\": "src/"
-        }
-    },
+    "license": "GPL-2.0-or-later",    
     "authors": [
         {
             "name": "azher-basha",
