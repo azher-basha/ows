@@ -1,0 +1,16 @@
+{
+    "name": "azher/ows",
+    "description": "Open Web Solutions",
+    "autoload": {
+        "psr-4": {
+            "Azher\\Ows\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "azher-basha",
+            "email": "azher.basha1987@gmail.com"
+        }
+    ],
+    "require": {}
+}
